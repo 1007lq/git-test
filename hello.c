@@ -3,6 +3,7 @@
 
 int main(int argc, const char *argv[])
 {
+	printf("add one line in test\n");
 	return 0;
 }
 
